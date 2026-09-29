@@ -6,7 +6,6 @@ Each new post should follow the exact structure of the existing posts in `_posts
 
 ## Queue (next up first)
 
-- Best clothes steamers UK
 - Best kitchen knife sets UK
 - Best under-sink storage organisers UK
 - Best air fryers UK
@@ -29,6 +28,7 @@ Each new post should follow the exact structure of the existing posts in `_posts
 
 ## Done
 
+- Best clothes steamers UK (2026-09-29)
 - Best food storage containers UK (2026-09-28)
 - Best kitchen drawer organisers UK (2026-09-28)
 - Best clothes airers and drying racks UK (2026-09-28)

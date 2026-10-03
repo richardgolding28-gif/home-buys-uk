@@ -6,7 +6,6 @@ Each new post should follow the exact structure of the existing posts in `_posts
 
 ## Queue (next up first)
 
-- Best shoe storage racks UK
 - Best wardrobe organisers UK
 - Best kitchen bin UK
 - Best laundry baskets UK
@@ -25,6 +24,7 @@ Each new post should follow the exact structure of the existing posts in `_posts
 
 ## Done
 
+- Best shoe storage racks UK (2026-10-03)
 - Best air fryers UK (2026-10-02)
 - Best under-sink storage organisers UK (2026-10-01)
 - Best kitchen knife sets UK (2026-09-30)
